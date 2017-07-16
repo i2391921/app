@@ -1,0 +1,9 @@
+[package]
+name = "GameApp"
+version = "0.1.0"
+authors = ["ida"]
+
+
+
+[dependencies]
+amethyst = { git = "https://github.com/amethyst/amethyst.git" }
